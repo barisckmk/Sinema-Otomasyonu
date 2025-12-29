@@ -1,0 +1,9 @@
+Roller 
+Admin', 'User', 'admin@sinema.com', '1234', 1
+
+'Gişe', 'Memuru', 'gise@sinema.com', '4567', 2
+
+'Büfe', 'Memuru', 'büfe@sinema.com', '0123', 3
+
+'muhasebe', 'Memuru', 'muhasebe@sinema.com', '6789', 4
+
