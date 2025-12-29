@@ -1,0 +1,689 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|c:\\users\\cakma\\onedrive\\masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\anasayfa1 (2)\\anasayfa1 (2)\\anasayfa1\\anasayfa1\\giris_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\giris_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\uc_ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\uc_ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\uc_ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\uc_ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\profilfoto_isim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\profilfoto_isim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\profilfoto_isim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\profilfoto_isim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\uc_biletlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\uc_biletlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\aktifbiletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\aktifbiletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\koltukonayformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\koltukonayformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\biletal\u0131mvebufe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\biletal\u0131mvebufe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\odeme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\odeme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\aktifbiletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\aktifbiletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\koltuksecimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\odeme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\odeme2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\giris_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\giris_kayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmmuhasebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmmuhasebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\odeme2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\odeme2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmmuhasebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmmuhasebe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\mov\u0131epicturedetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\mov\u0131epicturedetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\mevcutkartlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\mevcutkartlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmdegerlendirme\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmdegerlendirme\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmdegerlendirme\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmdegerlendirme\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmdegerlendirmeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmdegerlendirmeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\forumdetaylar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\forumdetaylar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\forumdetaylar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\forumdetaylar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmbiletsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmbiletsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmbiletsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmbiletsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\frmadminpanel\\frmyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\frmadminpanel\\frmyonetim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\biletcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\biletcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\uc_biletlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\uc_biletlerim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\moviecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\moviecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\oturum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\oturum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\profil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\profil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\anasayfa1\\biletleme3\\saloncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB9779FA-FA40-43F6-958B-C249D8309F3A}|Anasayfa1\\Anasayfa1.csproj|solutionrelative:anasayfa1\\biletleme3\\saloncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Profil.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:00:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profil.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Profil.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.cs",
+              "RelativeToolTip": "Anasayfa1\\Profil.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:09:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profilfoto_isim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profilfoto_isim.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Profilfoto_isim.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profilfoto_isim.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profilfoto_isim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:01:45.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profilfoto_isim.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profilfoto_isim.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Profilfoto_isim.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profilfoto_isim.cs",
+              "RelativeToolTip": "Anasayfa1\\Profilfoto_isim.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:01:46.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Ayarlar.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Ayarlar.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\UC_Ayarlar.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Ayarlar.cs",
+              "RelativeToolTip": "Anasayfa1\\UC_Ayarlar.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAvwF0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:59:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Ayarlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Ayarlar.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\UC_Ayarlar.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Ayarlar.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Ayarlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:49:05.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giris_Kayit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Giris_Kayit.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Giris_Kayit.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Giris_Kayit.cs [Design]",
+              "RelativeToolTip": "Anasayfa1\\Giris_Kayit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:33:35.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_Biletlerim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Biletlerim.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\UC_Biletlerim.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Biletlerim.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Biletlerim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:19:51.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "odeme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\odeme.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\odeme.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\odeme.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\odeme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:20:42.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "aktifBiletler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\aktifBiletler.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\aktifBiletler.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\aktifBiletler.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\aktifBiletler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:44:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "koltukSecimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\koltukSecimi.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\koltukSecimi.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\koltukSecimi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\koltukSecimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:57:07.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KoltukOnayFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\KoltukOnayFormu.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\KoltukOnayFormu.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\KoltukOnayFormu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\KoltukOnayFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:57:04.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "biletAl\u0131mVeBufe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\biletAl\u0131mVeBufe.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\biletAl\u0131mVeBufe.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\biletAl\u0131mVeBufe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\biletAl\u0131mVeBufe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:23:03.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Odeme2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\Odeme2.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:23:05.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "aktifBiletler.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\aktifBiletler.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\aktifBiletler.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\aktifBiletler.cs",
+              "RelativeToolTip": "Anasayfa1\\aktifBiletler.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv4YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:44:31.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Form1.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\Form1.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Form1.cs",
+              "RelativeToolTip": "Anasayfa1\\biletleme3\\Form1.cs",
+              "ViewState": "AgIAAPABAAAAAAAAAAAUwBwCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:19:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Form1.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\Form1.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:19:44.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "koltukSecimi.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\koltukSecimi.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\koltukSecimi.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\koltukSecimi.cs",
+              "RelativeToolTip": "Anasayfa1\\biletleme3\\koltukSecimi.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAswLIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:58:57.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "odeme.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\odeme.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\odeme.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\odeme.cs",
+              "RelativeToolTip": "Anasayfa1\\biletleme3\\odeme.cs",
+              "ViewState": "AgIAANMBAAAAAAAAAAAgwO4BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:38:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Odeme2.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\Odeme2.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.cs",
+              "RelativeToolTip": "Anasayfa1\\biletleme3\\Odeme2.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAQwIgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:23:05.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmYonetim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:14:49.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Giris_Kayit.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Giris_Kayit.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Giris_Kayit.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Giris_Kayit.cs",
+              "RelativeToolTip": "Anasayfa1\\Giris_Kayit.cs",
+              "ViewState": "AgIAAHkCAAAAAAAAAAAswIkCAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:36:02.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmMuhasebe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:06:38.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Mov\u0131ePictureDetay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Mov\u0131ePictureDetay.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Mov\u0131ePictureDetay.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Mov\u0131ePictureDetay.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Mov\u0131ePictureDetay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:01:35.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmMuhasebe.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs",
+              "RelativeToolTip": "Anasayfa1\\FrmAdminPanel\\frmMuhasebe.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAUwMcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:06:39.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Odeme2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.Designer.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\Odeme2.Designer.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Odeme2.Designer.cs",
+              "RelativeToolTip": "Anasayfa1\\biletleme3\\Odeme2.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:30:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MevcutKartlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\MevcutKartlar.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\MevcutKartlar.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\MevcutKartlar.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\MevcutKartlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:01:39.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Form3.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Form3.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Form3.cs",
+              "RelativeToolTip": "Anasayfa1\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:15:39.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Form3.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Form3.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:15:36.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmDegerlendirme\\Form4.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmDegerlendirme\\Form4.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmDegerlendirme\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmDegerlendirme\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:35:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmDegerlendirme\\Form4.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmDegerlendirme\\Form4.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmDegerlendirme\\Form4.cs",
+              "RelativeToolTip": "Anasayfa1\\FrmDegerlendirme\\Form4.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:35:51.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmDegerlendirmeler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmDegerlendirmeler.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\FrmDegerlendirmeler.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmDegerlendirmeler.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmDegerlendirmeler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T12:02:28.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmBiletSatis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:29:54.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmBiletSatis.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs",
+              "RelativeToolTip": "Anasayfa1\\FrmAdminPanel\\FrmBiletSatis.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAswMUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:29:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "forumDetaylar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\forumDetaylar.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\forumDetaylar.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\forumDetaylar.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\forumDetaylar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:34:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "forumDetaylar.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\forumDetaylar.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\forumDetaylar.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\forumDetaylar.cs",
+              "RelativeToolTip": "Anasayfa1\\forumDetaylar.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAIA/wMoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:34:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmYonetim.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs",
+              "RelativeToolTip": "Anasayfa1\\FrmAdminPanel\\FrmYonetim.cs",
+              "ViewState": "AgIAAEcCAAAAAAAAAAAowFECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T11:14:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BiletCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\BiletCard.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\BiletCard.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\BiletCard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dungecegelen\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\BiletCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:31:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UC_Biletlerim.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Biletlerim.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\UC_Biletlerim.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\UC_Biletlerim.cs",
+              "RelativeToolTip": "Anasayfa1\\UC_Biletlerim.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAlwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:38:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MovieCard.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\MovieCard.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\MovieCard.cs",
+              "ToolTip": "C:\\Users\\Mert\\Downloads\\20.12.13;54 (3)\\20.12.13;54\\Anasayfa1asdadsada\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\MovieCard.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Mert\\Downloads\\20.12.13;54 (3)\\20.12.13;54\\Anasayfa1asdadsada\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\MovieCard.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:01:36.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Oturum.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Oturum.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\Oturum.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\Oturum.cs",
+              "RelativeToolTip": "Anasayfa1\\biletleme3\\Oturum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T03:19:04.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Profil.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.Designer.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\Profil.Designer.cs",
+              "ToolTip": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\Profil.Designer.cs",
+              "RelativeToolTip": "Anasayfa1\\Profil.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAApwDQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T02:57:41.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SalonCard.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\cakma\\OneDrive\\Masa\u00FCst\u00FC\\24bilp0043_24bilp0097_24bilp0102\\sinema otomasyonu\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\SalonCard.cs",
+              "RelativeDocumentMoniker": "Anasayfa1\\biletleme3\\SalonCard.cs",
+              "ToolTip": "C:\\Users\\Mert\\Downloads\\20.12.13;54 (3)\\20.12.13;54\\Anasayfa1asdadsada\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\SalonCard.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Mert\\Downloads\\20.12.13;54 (3)\\20.12.13;54\\Anasayfa1asdadsada\\Anasayfa1 (2)\\Anasayfa1 (2)\\Anasayfa1\\Anasayfa1\\biletleme3\\SalonCard.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T01:06:18.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

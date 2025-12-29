@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB9779FA-FA40-43F6-958B-C249D8309F3A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Anasayfa1</RootNamespace>
+    <AssemblyName>Anasayfa1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aktifBiletler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="aktifBiletler.Designer.cs">
+      <DependentUpon>aktifBiletler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\biletAlımVeBufe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletleme3\biletAlımVeBufe.Designer.cs">
+      <DependentUpon>biletAlımVeBufe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\BiletCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="biletleme3\BiletCard.Designer.cs">
+      <DependentUpon>BiletCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\BufeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="biletleme3\BufeCard.Designer.cs">
+      <DependentUpon>BufeCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\FilmCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="biletleme3\FilmCard.Designer.cs">
+      <DependentUpon>FilmCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletleme3\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\KoltukOnayFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletleme3\KoltukOnayFormu.Designer.cs">
+      <DependentUpon>KoltukOnayFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\koltukSecimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletleme3\koltukSecimi.Designer.cs">
+      <DependentUpon>koltukSecimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\odeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletleme3\odeme.Designer.cs">
+      <DependentUpon>odeme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\Odeme2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="biletleme3\Odeme2.Designer.cs">
+      <DependentUpon>Odeme2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="biletleme3\Oturum.cs" />
+    <Compile Include="biletleme3\SalonCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="biletleme3\SalonCard.Designer.cs">
+      <DependentUpon>SalonCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forumDetaylar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forumDetaylar.Designer.cs">
+      <DependentUpon>forumDetaylar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmAdminKoltukSecimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmAdminKoltukSecimi.Designer.cs">
+      <DependentUpon>FrmAdminKoltukSecimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmBiletSatis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmBiletSatis.Designer.cs">
+      <DependentUpon>FrmBiletSatis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmBufe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmBufe.Designer.cs">
+      <DependentUpon>FrmBufe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmDashboard.Designer.cs">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmDegerlendirmeler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmDegerlendirmeler.Designer.cs">
+      <DependentUpon>FrmDegerlendirmeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\frmMuhasebe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\frmMuhasebe.Designer.cs">
+      <DependentUpon>frmMuhasebe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminPanel\FrmYonetim.Designer.cs">
+      <DependentUpon>FrmYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDegerlendirme\Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDegerlendirme\Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris_Kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris_Kayit.Designer.cs">
+      <DependentUpon>Giris_Kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MevcutKartlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MevcutKartlar.Designer.cs">
+      <DependentUpon>MevcutKartlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovieCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MovieCard.Designer.cs">
+      <DependentUpon>MovieCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovıePictureDetay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MovıePictureDetay.Designer.cs">
+      <DependentUpon>MovıePictureDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profil.Designer.cs">
+      <DependentUpon>Profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profilfoto_isim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Profilfoto_isim.Designer.cs">
+      <DependentUpon>Profilfoto_isim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC_Ayarlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Ayarlar.Designer.cs">
+      <DependentUpon>UC_Ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Biletlerim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Biletlerim.Designer.cs">
+      <DependentUpon>UC_Biletlerim.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="aktifBiletler.resx">
+      <DependentUpon>aktifBiletler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\biletAlımVeBufe.resx">
+      <DependentUpon>biletAlımVeBufe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\BiletCard.resx">
+      <DependentUpon>BiletCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\BufeCard.resx">
+      <DependentUpon>BufeCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\FilmCard.resx">
+      <DependentUpon>FilmCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\KoltukOnayFormu.resx">
+      <DependentUpon>KoltukOnayFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\koltukSecimi.resx">
+      <DependentUpon>koltukSecimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\odeme.resx">
+      <DependentUpon>odeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\Odeme2.resx">
+      <DependentUpon>Odeme2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="biletleme3\SalonCard.resx">
+      <DependentUpon>SalonCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forumDetaylar.resx">
+      <DependentUpon>forumDetaylar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\FrmAdminKoltukSecimi.resx">
+      <DependentUpon>FrmAdminKoltukSecimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\FrmBiletSatis.resx">
+      <DependentUpon>FrmBiletSatis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\FrmBufe.resx">
+      <DependentUpon>FrmBufe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\FrmDashboard.resx">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\FrmDegerlendirmeler.resx">
+      <DependentUpon>FrmDegerlendirmeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\frmMuhasebe.resx">
+      <DependentUpon>frmMuhasebe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminPanel\FrmYonetim.resx">
+      <DependentUpon>FrmYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDegerlendirme\Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris_Kayit.resx">
+      <DependentUpon>Giris_Kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MevcutKartlar.resx">
+      <DependentUpon>MevcutKartlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovieCard.resx">
+      <DependentUpon>MovieCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovıePictureDetay.resx">
+      <DependentUpon>MovıePictureDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profil.resx">
+      <DependentUpon>Profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profilfoto_isim.resx">
+      <DependentUpon>Profilfoto_isim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UC_Ayarlar.resx">
+      <DependentUpon>UC_Ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Biletlerim.resx">
+      <DependentUpon>UC_Biletlerim.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="biletleme3\iconlar\boşkoltuk2.png" />
+    <Content Include="biletleme3\iconlar\dolu.png" />
+    <Content Include="biletleme3\Posterler\3Dgozluk.jpg" />
+    <Content Include="biletleme3\Posterler\adile.png" />
+    <Content Include="biletleme3\Posterler\amrum.png" />
+    <Content Include="biletleme3\Posterler\Avatar.png" />
+    <Content Include="biletleme3\Posterler\bildigin.png" />
+    <Content Include="biletleme3\Posterler\buyuktekiçecek.jpg" />
+    <Content Include="biletleme3\Posterler\ekstrabuyuk.jpg" />
+    <Content Include="biletleme3\Posterler\ekstratekiçecek.jpg" />
+    <Content Include="biletleme3\Posterler\hayat.png" />
+    <Content Include="biletleme3\Posterler\kova.jpg" />
+    <Content Include="biletleme3\Posterler\kova2.jpg" />
+    <Content Include="biletleme3\Posterler\kova3.jpg" />
+    <Content Include="biletleme3\Posterler\kovatekiçecek.jpg" />
+    <Content Include="biletleme3\Posterler\nacho.jpg" />
+    <Content Include="biletleme3\Posterler\neşe.png" />
+    <Content Include="biletleme3\Posterler\olum.png" />
+    <Content Include="biletleme3\Posterler\sibirbazlar.png" />
+    <Content Include="biletleme3\Posterler\uykucu.jpg" />
+    <Content Include="biletleme3\Posterler\yetmiş.png" />
+    <Content Include="biletleme3\Resources\cikis.png" />
+    <Content Include="biletleme3\Resources\geri.png" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\mısır.jpg" />
+    <None Include="Resources\koltuk.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

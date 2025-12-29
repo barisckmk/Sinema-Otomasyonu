@@ -1,0 +1,611 @@
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\tnlan\source\repos\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Cuzdan.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\tnlan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Cuzdan.resources
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\3Dgozluk.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\adile.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\amrum.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\Avatar.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\bildigin.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\buyuktekiçecek.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\ekstrabuyuk.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\ekstratekiçecek.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\hayat.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kova.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kova2.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kova3.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kovatekiçecek.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\nacho.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\neşe.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\olum.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\sibirbazlar.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\uykucu.jpg
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\yetmiş.png
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\biletleme3.exe
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\FrmAdminPanel.exe
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\biletleme3.pdb
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\biletleme3.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\FrmAdminPanel.pdb
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\FrmAdminPanel.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.Up2Date
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\3Dgozluk.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\adile.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\amrum.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\Avatar.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\bildigin.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\buyuktekiçecek.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\ekstrabuyuk.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\ekstratekiçecek.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\hayat.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kova.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kova2.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kova3.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\kovatekiçecek.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\nacho.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\neşe.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\olum.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\sibirbazlar.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\uykucu.jpg
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Posterler\yetmiş.png
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\biletleme3.exe
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\FrmAdminPanel.exe
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\biletleme3.pdb
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\biletleme3.exe.config
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\FrmAdminPanel.pdb
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\FrmAdminPanel.exe.config
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.Up2Date
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\tnlan\Desktop\Masaüstü (12)\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDetayDüzenleme.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Mert\Desktop\anasayfaomer\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDetayDüzenleme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDetayDüzenleme.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Mert\Desktop\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDetayDüzenleme.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\tnlan\Desktop\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDetayDüzenleme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Mert\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Umut Erkan\Desktop\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\Mert\Downloads\20.12.13;54 (3)\20.12.13;54\Anasayfa1asdadsada\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\cakma\OneDrive\Masaüstü\dungecegelen\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\bin\Debug\Anasayfa1.pdb
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.AssemblyReference.cache
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe.config
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.aktifBiletler.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.biletAlımVeBufe.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BiletCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.BufeCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form1.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.KoltukOnayFormu.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.koltukSecimi.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.odeme.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Odeme2.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.SalonCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Anasayfa.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.forumDetaylar.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Form2.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmAdminPanel.FrmAdminKoltukSecimi.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBiletSatis.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmBufe.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDashboard.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmDegerlendirmeler.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmMuhasebe.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FrmYönetim.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.FilmDegerlendirme.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Giris_Kayit.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MevcutKartlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovieCard.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.MovıePictureDetay.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profil.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Profilfoto_isim.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.Properties.Resources.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Ayarlar.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.UC_Biletlerim.resources
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.GenerateResource.cache
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.csproj.CoreCompileInputs.cache
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.exe
+C:\Users\cakma\OneDrive\Masaüstü\24bilp0043_24bilp0097_24bilp0102\sinema otomasyonu\Anasayfa1 (2)\Anasayfa1 (2)\Anasayfa1\Anasayfa1\obj\Debug\Anasayfa1.pdb

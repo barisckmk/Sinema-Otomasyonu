@@ -1,0 +1,390 @@
+﻿namespace Anasayfa1
+{
+    partial class FrmMuhasebe
+    {
+        private System.ComponentModel.IContainer components = null;
+
+        private System.Windows.Forms.Button btnKaydet;
+        private System.Windows.Forms.Button btnGuncelle;
+        private System.Windows.Forms.Button btnSil;
+        private System.Windows.Forms.Button btnTemizle;
+
+        private System.Windows.Forms.DataGridView dataGridView1;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+        private void InitializeComponent()
+        {
+            System.Windows.Forms.Label label7;
+            this.btnKaydet = new System.Windows.Forms.Button();
+            this.btnGuncelle = new System.Windows.Forms.Button();
+            this.btnSil = new System.Windows.Forms.Button();
+            this.btnTemizle = new System.Windows.Forms.Button();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtAciklama = new System.Windows.Forms.TextBox();
+            this.nudTutar = new System.Windows.Forms.NumericUpDown();
+            this.dtTarih = new System.Windows.Forms.DateTimePicker();
+            this.cmbKategori = new System.Windows.Forms.ComboBox();
+            this.cmbOdemeTuru = new System.Windows.Forms.ComboBox();
+            this.cmbIslemiYapan = new System.Windows.Forms.ComboBox();
+            this.cmbDurum = new System.Windows.Forms.ComboBox();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.button1 = new System.Windows.Forms.Button();
+            label7 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.panel1.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudTutar)).BeginInit();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            label7.ForeColor = System.Drawing.Color.LawnGreen;
+            label7.Location = new System.Drawing.Point(411, 27);
+            label7.Name = "label7";
+            label7.Size = new System.Drawing.Size(264, 46);
+            label7.TabIndex = 7;
+            label7.Text = "Muhasebe Tablo";
+            // 
+            // btnKaydet
+            // 
+            this.btnKaydet.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnKaydet.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnKaydet.ForeColor = System.Drawing.Color.LawnGreen;
+            this.btnKaydet.Location = new System.Drawing.Point(16, 256);
+            this.btnKaydet.Name = "btnKaydet";
+            this.btnKaydet.Size = new System.Drawing.Size(120, 35);
+            this.btnKaydet.TabIndex = 1;
+            this.btnKaydet.Text = "Kaydet";
+            this.btnKaydet.UseVisualStyleBackColor = false;
+            this.btnKaydet.Click += new System.EventHandler(this.btnKaydet_Click);
+            // 
+            // btnGuncelle
+            // 
+            this.btnGuncelle.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnGuncelle.ForeColor = System.Drawing.Color.LawnGreen;
+            this.btnGuncelle.Location = new System.Drawing.Point(16, 306);
+            this.btnGuncelle.Name = "btnGuncelle";
+            this.btnGuncelle.Size = new System.Drawing.Size(120, 35);
+            this.btnGuncelle.TabIndex = 2;
+            this.btnGuncelle.Text = "Güncelle";
+            this.btnGuncelle.Click += new System.EventHandler(this.btnGuncelle_Click_1);
+            // 
+            // btnSil
+            // 
+            this.btnSil.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnSil.ForeColor = System.Drawing.Color.LawnGreen;
+            this.btnSil.Location = new System.Drawing.Point(16, 367);
+            this.btnSil.Name = "btnSil";
+            this.btnSil.Size = new System.Drawing.Size(120, 35);
+            this.btnSil.TabIndex = 3;
+            this.btnSil.Text = "Sil";
+            this.btnSil.Click += new System.EventHandler(this.btnSil_Click_1);
+            // 
+            // btnTemizle
+            // 
+            this.btnTemizle.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnTemizle.ForeColor = System.Drawing.Color.LawnGreen;
+            this.btnTemizle.Location = new System.Drawing.Point(16, 423);
+            this.btnTemizle.Name = "btnTemizle";
+            this.btnTemizle.Size = new System.Drawing.Size(120, 35);
+            this.btnTemizle.TabIndex = 4;
+            this.btnTemizle.Text = "Temizle";
+            this.btnTemizle.Click += new System.EventHandler(this.btnTemizle_Click_1);
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dataGridView1.ColumnHeadersHeight = 29;
+            this.dataGridView1.Location = new System.Drawing.Point(24, 92);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.Size = new System.Drawing.Size(1002, 445);
+            this.dataGridView1.TabIndex = 6;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel1.Controls.Add(this.groupBox1);
+            this.panel1.Controls.Add(this.btnKaydet);
+            this.panel1.Controls.Add(this.btnGuncelle);
+            this.panel1.Controls.Add(this.btnTemizle);
+            this.panel1.Controls.Add(this.btnSil);
+            this.panel1.Location = new System.Drawing.Point(3, 3);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1051, 719);
+            this.panel1.TabIndex = 7;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.AutoSize = true;
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.groupBox1.Controls.Add(this.label8);
+            this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.label5);
+            this.groupBox1.Controls.Add(this.label4);
+            this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.Controls.Add(this.label2);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.txtAciklama);
+            this.groupBox1.Controls.Add(this.nudTutar);
+            this.groupBox1.Controls.Add(this.dtTarih);
+            this.groupBox1.Controls.Add(this.cmbKategori);
+            this.groupBox1.Controls.Add(this.cmbOdemeTuru);
+            this.groupBox1.Controls.Add(this.cmbIslemiYapan);
+            this.groupBox1.Controls.Add(this.cmbDurum);
+            this.groupBox1.ForeColor = System.Drawing.Color.LawnGreen;
+            this.groupBox1.Location = new System.Drawing.Point(0, 0);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(1100, 229);
+            this.groupBox1.TabIndex = 1;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Gider Bilgileri";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label8.Location = new System.Drawing.Point(515, 30);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(65, 20);
+            this.label8.TabIndex = 17;
+            this.label8.Text = "Durum : ";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label6.Location = new System.Drawing.Point(286, 163);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(99, 20);
+            this.label6.TabIndex = 15;
+            this.label6.Text = "İşlemi Yapan :";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label5.Location = new System.Drawing.Point(286, 92);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(91, 20);
+            this.label5.TabIndex = 14;
+            this.label5.Text = "Ödeme Türü";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(285, 30);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(73, 20);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Kategori :";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label3.Location = new System.Drawing.Point(12, 157);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(47, 20);
+            this.label3.TabIndex = 12;
+            this.label3.Text = "Tarih :";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.Location = new System.Drawing.Point(9, 87);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(50, 20);
+            this.label2.TabIndex = 11;
+            this.label2.Text = "Tutar :";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.ForeColor = System.Drawing.Color.LawnGreen;
+            this.label1.Location = new System.Drawing.Point(6, 30);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(77, 20);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "Açıklama :";
+            // 
+            // txtAciklama
+            // 
+            this.txtAciklama.Location = new System.Drawing.Point(6, 53);
+            this.txtAciklama.Name = "txtAciklama";
+            this.txtAciklama.Size = new System.Drawing.Size(250, 22);
+            this.txtAciklama.TabIndex = 0;
+            // 
+            // nudTutar
+            // 
+            this.nudTutar.DecimalPlaces = 2;
+            this.nudTutar.Location = new System.Drawing.Point(10, 110);
+            this.nudTutar.Maximum = new decimal(new int[] {
+            1000000,
+            0,
+            0,
+            0});
+            this.nudTutar.Name = "nudTutar";
+            this.nudTutar.Size = new System.Drawing.Size(120, 22);
+            this.nudTutar.TabIndex = 1;
+            // 
+            // dtTarih
+            // 
+            this.dtTarih.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtTarih.Location = new System.Drawing.Point(10, 180);
+            this.dtTarih.Name = "dtTarih";
+            this.dtTarih.Size = new System.Drawing.Size(200, 22);
+            this.dtTarih.TabIndex = 2;
+            // 
+            // cmbKategori
+            // 
+            this.cmbKategori.Location = new System.Drawing.Point(289, 53);
+            this.cmbKategori.Name = "cmbKategori";
+            this.cmbKategori.Size = new System.Drawing.Size(200, 24);
+            this.cmbKategori.TabIndex = 3;
+            // 
+            // cmbOdemeTuru
+            // 
+            this.cmbOdemeTuru.Location = new System.Drawing.Point(286, 112);
+            this.cmbOdemeTuru.Name = "cmbOdemeTuru";
+            this.cmbOdemeTuru.Size = new System.Drawing.Size(200, 24);
+            this.cmbOdemeTuru.TabIndex = 4;
+            // 
+            // cmbIslemiYapan
+            // 
+            this.cmbIslemiYapan.Location = new System.Drawing.Point(286, 184);
+            this.cmbIslemiYapan.Name = "cmbIslemiYapan";
+            this.cmbIslemiYapan.Size = new System.Drawing.Size(200, 24);
+            this.cmbIslemiYapan.TabIndex = 5;
+            // 
+            // cmbDurum
+            // 
+            this.cmbDurum.Location = new System.Drawing.Point(518, 53);
+            this.cmbDurum.Name = "cmbDurum";
+            this.cmbDurum.Size = new System.Drawing.Size(200, 24);
+            this.cmbDurum.TabIndex = 7;
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(-5, 9);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(1051, 691);
+            this.tabControl1.TabIndex = 7;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.panel1);
+            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(1043, 662);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "tabPage1";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            this.tabPage1.Click += new System.EventHandler(this.tabPage1_Click);
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.button1);
+            this.tabPage2.Controls.Add(label7);
+            this.tabPage2.Controls.Add(this.dataGridView1);
+            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1043, 662);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "tabPage2";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            this.tabPage2.Click += new System.EventHandler(this.tabPage2_Click);
+            // 
+            // button1
+            // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.ForeColor = System.Drawing.Color.YellowGreen;
+            this.button1.Location = new System.Drawing.Point(463, 587);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(120, 51);
+            this.button1.TabIndex = 8;
+            this.button1.Text = "Listele";
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // FrmMuhasebe
+            // 
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(40)))), ((int)(((byte)(40)))));
+            this.ClientSize = new System.Drawing.Size(1058, 712);
+            this.Controls.Add(this.tabControl1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "FrmMuhasebe";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Load += new System.EventHandler(this.FrmMuhasebe_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.nudTutar)).EndInit();
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtAciklama;
+        private System.Windows.Forms.NumericUpDown nudTutar;
+        private System.Windows.Forms.DateTimePicker dtTarih;
+        private System.Windows.Forms.ComboBox cmbKategori;
+        private System.Windows.Forms.ComboBox cmbOdemeTuru;
+        private System.Windows.Forms.ComboBox cmbIslemiYapan;
+        private System.Windows.Forms.ComboBox cmbDurum;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Button button1;
+    }
+}
