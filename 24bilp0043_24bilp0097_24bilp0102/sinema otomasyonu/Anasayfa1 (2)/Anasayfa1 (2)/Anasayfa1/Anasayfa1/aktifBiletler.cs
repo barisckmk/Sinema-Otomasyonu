@@ -134,6 +134,24 @@ namespace Anasayfa1
                     cmd2.Parameters.AddWithValue("@k", Convert.ToInt32(_koltukNo));
                     cmd2.ExecuteNonQuery();
 
+                    SqlCommand cmd3 = new SqlCommand(@"
+INSERT INTO TblMuhasebe
+(Aciklama, Tutar, Tarih, Kategori, OdemeTuru, IslemiYapan, FaturaNo, Durum)
+VALUES
+(@a, @t, @tar, @k, @o, @i, @f, @d)
+", cnn, tr);
+
+                    cmd3.Parameters.AddWithValue("@a", label1.Text + " - Bilet İadesi");
+                    cmd3.Parameters.AddWithValue("@t", 0); // veya iade tutarı
+                    cmd3.Parameters.AddWithValue("@tar", DateTime.Now);
+                    cmd3.Parameters.AddWithValue("@k", "Bilet Satış");
+                    cmd3.Parameters.AddWithValue("@o", "İade");
+                    cmd3.Parameters.AddWithValue("@i", "Sistem");
+                    cmd3.Parameters.AddWithValue("@f", "IADE-" + _biletID);
+                    cmd3.Parameters.AddWithValue("@d", "İade");
+
+                    cmd3.ExecuteNonQuery();
+
                     tr.Commit();
                     this.Visible = false;
                 }

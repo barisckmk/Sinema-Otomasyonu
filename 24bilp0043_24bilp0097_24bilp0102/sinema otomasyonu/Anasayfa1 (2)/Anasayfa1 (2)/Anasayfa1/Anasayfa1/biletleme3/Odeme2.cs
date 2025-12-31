@@ -207,7 +207,7 @@ namespace Anasayfa1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // --- KONTROL KISMI ---
+            // --- 1. GİRİŞ KONTROLLERİ ---
             if (TextBosMuVeyaPlaceholderMi(textBox1, "Ad Soyad"))
             {
                 UyariVer("Lütfen Ad ve Soyad bilgisini giriniz.");
@@ -220,24 +220,16 @@ namespace Anasayfa1
                 return;
             }
 
-            // YENİ EKLENEN KISIM: KART NUMARASI UZUNLUK KONTROLÜ
-            // Boşlukları silip sadece rakam sayısına bakıyoruz.
             string temizKartNo = textBox2.Text.Replace(" ", "");
             if (temizKartNo.Length < 12)
             {
-                UyariVer("Kart numarası en az 12 haneli olmalıdır. Lütfen kontrol ediniz.");
+                UyariVer("Kart numarası en az 12 haneli olmalıdır.");
                 return;
             }
 
-            if (TextBosMuVeyaPlaceholderMi(comboBox1, "Ay"))
+            if (TextBosMuVeyaPlaceholderMi(comboBox1, "Ay") || TextBosMuVeyaPlaceholderMi(comboBox2, "Yıl"))
             {
-                UyariVer("Lütfen Son Kullanma Tarihi (Ay) seçiniz.");
-                return;
-            }
-
-            if (TextBosMuVeyaPlaceholderMi(comboBox2, "Yıl"))
-            {
-                UyariVer("Lütfen Son Kullanma Tarihi (Yıl) seçiniz.");
+                UyariVer("Lütfen Son Kullanma Tarihi seçiniz.");
                 return;
             }
 
@@ -247,24 +239,25 @@ namespace Anasayfa1
                 return;
             }
 
-            // --- SQL İŞLEMLERİ ---
+            // --- 2. VERİTABANI İŞLEMLERİ (TRANSACTION) ---
             using (SqlConnection baglanti = new SqlConnection(cnn))
             {
                 baglanti.Open();
-                SqlTransaction islem = baglanti.BeginTransaction();
+                SqlTransaction islem = baglanti.BeginTransaction(); // İşlemi başlat
                 try
                 {
+                    // A) BİLET OLUŞTURMA DÖNGÜSÜ
                     if (_secilenKoltukIdleri != null)
                     {
                         foreach (int kId in _secilenKoltukIdleri)
                         {
-                            // A) Koltuk No Bul
+                            // Koltuk No Bul
                             string noSorgu = "SELECT KoltukNo FROM Koltuklar WHERE KoltukID = @id";
                             SqlCommand cmdNo = new SqlCommand(noSorgu, baglanti, islem);
                             cmdNo.Parameters.AddWithValue("@id", kId);
                             string gercekKoltukNo = cmdNo.ExecuteScalar()?.ToString();
 
-                            // B) Bilet Kontrol (VAR MI? DURUMU NE? KİME AİT?)
+                            // Bilet Kontrol
                             string kontrolSql = "SELECT TOP 1 BiletID, Durum, KullaniciID FROM Biletler WHERE SeansID = @se AND KoltukNo = @kNo";
                             SqlCommand cmdKontrol = new SqlCommand(kontrolSql, baglanti, islem);
                             cmdKontrol.Parameters.AddWithValue("@se", _seansID);
@@ -283,7 +276,6 @@ namespace Anasayfa1
                                     byte durum = Convert.ToByte(dr[1]);
                                     object kID = dr[2];
 
-                                    // EĞER Durum 1 İSE VEYA KullaniciID DOLU İSE -> KOLTUK DOLUDUR
                                     if (durum == 1 || (kID != DBNull.Value))
                                     {
                                         koltukDoluMu = true;
@@ -291,22 +283,18 @@ namespace Anasayfa1
                                 }
                             }
 
-                            // C) KARAR AŞAMASI (Ekleme mi Güncelleme mi?)
                             if (biletKaydiVar)
                             {
                                 if (koltukDoluMu)
                                 {
-                                    // HATA: Koltuk başkası tarafından alınmış
                                     throw new Exception($"{gercekKoltukNo} numaralı koltuk maalesef az önce başkası tarafından alındı!");
                                 }
                                 else
                                 {
-                                    // GÜNCELLEME (RECYCLE): Bilet var ama iade edilmiş (Pasif/Null).
-                                    // Eski bileti tekrar canlandırıyoruz.
+                                    // Güncelleme
                                     string guncelleSql = @"UPDATE Biletler 
-                                                           SET KullaniciID = @u, Durum = 1, Tarih = @t, FilmID = @f, SalonID = @s 
-                                                           WHERE BiletID = @bId";
-
+                                                   SET KullaniciID = @u, Durum = 1, Tarih = @t, FilmID = @f, SalonID = @s 
+                                                   WHERE BiletID = @bId";
                                     SqlCommand cmdUpdate = new SqlCommand(guncelleSql, baglanti, islem);
                                     cmdUpdate.Parameters.AddWithValue("@u", (object)Oturum.KullaniciID ?? DBNull.Value);
                                     cmdUpdate.Parameters.AddWithValue("@t", DateTime.Now);
@@ -318,10 +306,9 @@ namespace Anasayfa1
                             }
                             else
                             {
-                                // EKLEME (INSERT): Daha önce hiç bilet oluşturulmamış. Yeni kayıt.
+                                // Ekleme
                                 string biletSql = @"INSERT INTO Biletler (FilmID, SalonID, SeansID, Tarih, KoltukNo, KullaniciID, Durum) 
-                                                    VALUES (@f, @s, @se, @t, @kNo, @u, 1)";
-
+                                            VALUES (@f, @s, @se, @t, @kNo, @u, 1)";
                                 SqlCommand cmdBilet = new SqlCommand(biletSql, baglanti, islem);
                                 cmdBilet.Parameters.AddWithValue("@f", _filmID);
                                 cmdBilet.Parameters.AddWithValue("@s", _salonID);
@@ -332,12 +319,11 @@ namespace Anasayfa1
                                 cmdBilet.ExecuteNonQuery();
                             }
 
-                            // D) SEANS KOLTUKLARINI GÜNCELLE (Görsel Durum İçin)
+                            // SeansKoltuklari Güncelle
                             string durumSql = @"IF NOT EXISTS (SELECT 1 FROM SeansKoltuklari WHERE SeansID=@se AND KoltukID=@k)
-                                                INSERT INTO SeansKoltuklari (SeansID, KoltukID, Durum) VALUES (@se, @k, 1)
-                                                ELSE
-                                                UPDATE SeansKoltuklari SET Durum = 1 WHERE SeansID=@se AND KoltukID=@k";
-
+                                        INSERT INTO SeansKoltuklari (SeansID, KoltukID, Durum) VALUES (@se, @k, 1)
+                                        ELSE
+                                        UPDATE SeansKoltuklari SET Durum = 1 WHERE SeansID=@se AND KoltukID=@k";
                             SqlCommand cmdDurum = new SqlCommand(durumSql, baglanti, islem);
                             cmdDurum.Parameters.AddWithValue("@se", _seansID);
                             cmdDurum.Parameters.AddWithValue("@k", kId);
@@ -345,19 +331,46 @@ namespace Anasayfa1
                         }
                     }
 
-                    // ... Muhasebe ve Satış kaydı kodlarınız buradan devam etsin ...
+                    // --- B) MUHASEBE KAYDI EKLEME (YENİ EKLENEN KISIM) ---
 
-                    islem.Commit();
-                    MessageBox.Show("Ödeme Başarılı!");
+                    // 1. Fatura Numarası için Seans Saatini Çekelim
+                    string seansSaati = "";
+                    string seansSorgu = "SELECT Seans FROM FilmSeanslari WHERE SeansID = @sid";
+                    SqlCommand cmdSeansBilgi = new SqlCommand(seansSorgu, baglanti, islem);
+                    cmdSeansBilgi.Parameters.AddWithValue("@sid", _seansID);
+                    object sonucSaat = cmdSeansBilgi.ExecuteScalar();
+                    if (sonucSaat != null) seansSaati = sonucSaat.ToString();
+
+                    // Fatura No Formatı: SN-SeansID-SeansSaati (Örn: SN-15-14:30)
+                    string faturaNo = "SN-" + _seansID + "-" + seansSaati;
+
+                    // 2. TblMuhasebe'ye Kayıt Atalım
+                    string muhasebeSql = @"INSERT INTO TblMuhasebe 
+                                   (Aciklama, Tutar, Tarih, Kategori, OdemeTuru, IslemiYapan, FaturaNo, Durum, BelgeYolu)
+                                   VALUES 
+                                   (@aciklama, @tutar, @tarih, 'Bilet Satış', 'Kredi Kartı', 'Gişe', @fatura, 'Ödendi', '')";
+
+                    SqlCommand cmdMuhasebe = new SqlCommand(muhasebeSql, baglanti, islem);
+
+                    // Açıklamaya koltuk bilgilerini ekliyoruz
+                    cmdMuhasebe.Parameters.AddWithValue("@aciklama", "Bilet Satış - Koltuklar: " + _koltukAdlari);
+                    cmdMuhasebe.Parameters.AddWithValue("@tutar", _gelenToplam); // Hesaplanan toplam ücret
+                    cmdMuhasebe.Parameters.AddWithValue("@tarih", DateTime.Now);
+                    cmdMuhasebe.Parameters.AddWithValue("@fatura", faturaNo);
+
+                    cmdMuhasebe.ExecuteNonQuery();
+                    // -----------------------------------------------------
+
+                    islem.Commit(); // Her şey başarılıysa kaydet
+                    MessageBox.Show("Ödeme Başarılı ve Muhasebeye İşlendi!");
+
                     Anasayfa frm = new Anasayfa();
                     frm.Show();
-                    this.Close();
-
                     this.Close();
                 }
                 catch (Exception ex)
                 {
-                    islem.Rollback();
+                    islem.Rollback(); // Hata varsa her şeyi geri al
                     MessageBox.Show("Hata: " + ex.Message);
                 }
             }

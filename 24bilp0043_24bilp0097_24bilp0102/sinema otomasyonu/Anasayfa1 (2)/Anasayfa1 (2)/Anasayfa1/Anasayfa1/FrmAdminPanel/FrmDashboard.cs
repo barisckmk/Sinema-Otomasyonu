@@ -15,23 +15,15 @@ namespace Anasayfa1
         private void button1_Click(object sender, EventArgs e)
         {
            
-            Form anaSayfa = Application.OpenForms["Anasayfa"];
-            if (anaSayfa != null)
-            {
-                anaSayfa.Show();
-            }
-            else
-            {
-                new Anasayfa().Show();
-            }
 
-            this.Hide();
+           // this.Hide();
 
             Form anaAdminPaneli = Application.OpenForms["Form2"];
 
             if (anaAdminPaneli != null)
             {
                 anaAdminPaneli.Close(); 
+                Application.Exit();
             }
         }
 
